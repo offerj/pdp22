@@ -1,0 +1,88 @@
+/*! Adidas fonts loading
+--------------------------------------------*/
+@font-face {
+    font-family: "adiBlack";
+    src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-BlackWeb.eot');
+    src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-BlackWeb.eot?#iefix') format('embedded-opentype'),
+    	 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-BlackWeb.woff2') format('woff2'),
+    	 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-BlackWeb.woff') format('woff'),
+    	 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-BlackWeb.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "adiLight";
+    src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-LightWeb.eot');
+    src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-LightWeb.eot?#iefix') format('embedded-opentype'),
+    	 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-LightWeb.woff2') format('woff2'),
+    	 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-LightWeb.woff') format('woff'),
+    	 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adineuePRO-LightWeb.ttf') format('truetype');
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+@font-face {
+	font-family: 'adihausregular';
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausregular.eot');
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausregular.eot?#iefix') format('embedded-opentype'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausregular.woff2') format('woff2'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausregular.woff') format('woff'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausregular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'adihausbold';
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausbold.eot');
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausbold.eot?#iefix') format('embedded-opentype'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausbold.woff2') format('woff2'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausbold.woff') format('woff'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adihausbold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'adiNeueRegular';
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueRegular.eot');
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueRegular.eot?#iefix') format('embedded-opentype'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueRegular.woff2') format('woff2'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueRegular.woff') format('woff'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'adiNeueBold';
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueBold.eot');
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueBold.eot?#iefix') format('embedded-opentype'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueBold.woff2') format('woff2'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueBold.woff') format('woff'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adiNeueBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'icomoonregular';
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/icomoon.eot');
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/icomoon.woff2') format('woff2'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/icomoon.woff') format('woff'),
+		 url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/icomoon.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'adiPictoRegular';
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adipictos-Regular.eot');
+	src: url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adipictos-Regular.eot?#iefix') format('embedded-opentype'),
+	url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adipictos-Regular.woff2') format('woff2'),
+	url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adipictos-Regular.woff') format('woff'),
+	url('http://www.adidas.co.uk/on/demandware.static/Sites-adidas-GB-Site/-/en_GB/v1472687500466/css/fonts/adipictos-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
